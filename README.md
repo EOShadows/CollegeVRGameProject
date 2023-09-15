@@ -1,7 +1,7 @@
 # College VR Game Project: Don't Stop Cooking in VR
 
 In the beginning of the year 2022, we created a game called [Don't Stop Cooking](https://knocktane.itch.io/dont-stop-cooking) (WARNING contains a bit of blood).  
-using the **Unity** game engine, we created it as a submission to a game jam called the [Juice Jam](https://itch.io/jam/gdb-juice-jam), 
+Using the **Unity** game engine, we created it as a submission to a game jam called the [Juice Jam](https://itch.io/jam/gdb-juice-jam), 
 along with [another teammate](https://itch.io/profile/esperlihn), during a weeklong time limit.
 
 The game is basically a cooking game with a horror twist, where you must cook the ordered dishes before your boss gets too impatient. The ordered dishes are randomized,
