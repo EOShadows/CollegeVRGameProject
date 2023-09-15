@@ -15,4 +15,4 @@ VR version.
 
 The game was tested using the Oculus Quest 2.
 
-Look at [this file](Instructions.md) for instructions on how to play the game.
+Look at [this file](Instructions.md) for instructions on how the game is played.
