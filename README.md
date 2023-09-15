@@ -5,7 +5,7 @@ Using the **Unity** game engine, we created it as a submission to a game jam cal
 along with [another teammate](https://itch.io/profile/esperlihn), during a weeklong time limit.
 
 The game is basically a cooking game with a horror twist, where you must cook the ordered dishes before your boss gets too impatient. The ordered dishes are randomized,
-and vary in the amount of points that you get or satisfaction you make or the boss when you complete them.
+and vary in the amount of points that you get or satisfaction you make for the boss when you complete them.
 
 Then during the Fall of that year, we needed an idea for a **VR Project** in the **Unreal Game Engine** for a class.  We not only enjoyed working on the Don't Stop Cooking game, but also
 were really proud of how it had turned out.  So what better idea is there then to bring that game to VR?  It was something we thought would be cool to create and to play, but also
